@@ -54,15 +54,15 @@ Part 9 (Typescript) <br>
 
 The following applications are created during this course:
 
-&nbsp;&nbsp;&nbsp;&nbsp;    A course information webpage
-&nbsp;&nbsp;&nbsp;&nbsp;    A web app for collecting customer feedback
-&nbsp;&nbsp;&nbsp;&nbsp;    A random anecdote generator
-&nbsp;&nbsp;&nbsp;&nbsp;    A simple phonebook web app
-&nbsp;&nbsp;&nbsp;&nbsp;    A web appl using the API https://restcountries.eu, in which one can look at data of various countries
-&nbsp;&nbsp;&nbsp;&nbsp;    A blog list web app that allows users to save information about interesting blogs they have stumbled across on the internet
-&nbsp;&nbsp;&nbsp;&nbsp;    A web application for a small library
-&nbsp;&nbsp;&nbsp;&nbsp;    A BMI web app
-&nbsp;&nbsp;&nbsp;&nbsp;    The backend of a simple medical record application for doctors who handle diagnoses and basic health information of their patients.
+&nbsp;&nbsp;&nbsp;&nbsp;    A course information webpage <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    A web app for collecting customer feedback <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    A random anecdote generator <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    A simple phonebook web app <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    A web appl using the API https://restcountries.eu, in which one can look at data of various countries <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    A blog list web app that allows users to save info about interesting blogs <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    A web application for a small library <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    A BMI web app <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    The backend of a simple medical record app for doctors who handle diagnoses/basic health info of their patients.
 
 
 
